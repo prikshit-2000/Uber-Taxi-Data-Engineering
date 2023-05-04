@@ -1,7 +1,10 @@
+
 # Uber Data Analytics | Modern Data Engineering GCP Project
+<img src = "data/download.png">
 Introduction
 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio. I have done this project for Learning purpose and all the credits for the Project goes to Darshil Parmer.
+
 Architecture
 
 ![image](https://user-images.githubusercontent.com/46683777/236123168-d0e5f27d-4af9-432b-8035-64ef2aea229e.png)
